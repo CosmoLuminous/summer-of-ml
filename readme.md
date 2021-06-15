@@ -7,4 +7,4 @@
 * Gradient Descent Algorithm
 * Linear Regression
 
-### Credits: some of the material has been taken from Andrew Ng's CS229 course at Stanford University and Assignment has been taken from COL774 Machine Learning Course by Prof. Parag Singla at IIT Delhi.
+### Credits: some of the material has been taken from Andrew Ng's CS229 course at Stanford University and the matrix calculus cookbook is taken from Petersen & Pedersen.
